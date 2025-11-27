@@ -5,7 +5,7 @@ manage members, and handle a simple task board with
 columns: TODO → DOING → DONE. with background job 
 
 ## tech Stack
-- ExpresJS - for api , rputong ,server
+- ExpresJS - for api , routing ,server
 - mongoDB - database 
 - redis - for cache memeory
 - worker - for background job or task
